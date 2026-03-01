@@ -201,7 +201,10 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "OmoPay";
+    const names = [
+    "OmoPay",
+  ];
+  let name = names[Math.floor(Math.random() * names.length)];
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -678,4 +681,5 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 

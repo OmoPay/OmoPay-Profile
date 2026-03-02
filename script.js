@@ -201,10 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-    const names = [
-    "OmoPay",
-  ];
-  let name = names[Math.floor(Math.random() * names.length)];
+  const name = "JAQLIV";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -239,16 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "A person who enjoys the internet",
-    
-    "Live's in the Milky Way Galaxy",
-    
-    "Live's on the planet Earth",
-    
-    "Enjoys developing stupid sh*t",
-    
-    "I am a person :)",
-    
+    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
+    "\"Hello, World!\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -679,8 +668,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
-
 });
-
-
-

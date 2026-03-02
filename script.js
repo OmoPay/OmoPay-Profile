@@ -241,9 +241,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const bioMessages = [
     "A person who enjoys the internet",
     
-    "Live in the Milky Way Galaxy",
+    "Live's in the Milky Way Galaxy",
     
-    "Live on the planet Earth",
+    "Live's on the planet Earth",
     
     "Enjoys developing stupid sh*t",
     
@@ -681,5 +681,6 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
 
